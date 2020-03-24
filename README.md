@@ -1,10 +1,11 @@
 # Capstone Project
 
+### Rita Kurban
+
+### 24 March 2020
+
 Even though breast cancer detection is a heavily researched discipline, thermography-based methods have long received insufficient attention. This can be mainly attributed to experimental design flaws, such as too small sample sizes, especially for positive cases, mixed data acquisition methods with unclear pre-processing steps, and omission of controversial or unclear cases, leading to non-generalizable and non-reproducible results. 
 This repository contains notebooks that quantify and compare human evaluation methods for thermography interpretation available in the literature. It also demonstrates that modern feature engineering and data augmentation techniques, combined with a sufficient number of samples, help to overcome the problem of the imbalanced dataset, and achieve industry-level performance.
-
-### Rita Kurban
-### 24 March 2020
 
 # Files:
 
